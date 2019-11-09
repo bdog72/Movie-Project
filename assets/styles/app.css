@@ -121,6 +121,7 @@ input:focus {
   top: 30vh;
   left: 10%;
   display: none;
+  background: #fff;
 }
 
 .modal.visible {
